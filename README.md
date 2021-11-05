@@ -9,3 +9,5 @@ Vi har addeed flere ting ind til den for at have extra ting
 plus for at have noget mere at vise i koden. I forhold til nu så har vi 6 ting at vælge imellem, men vi har tænkt os at
 adde flere senere hen. [GUI](GUI.jpg)
 
+
+Her er vores [Trello](https://trello.com/b/4R1T6xsX/fodboldturgui)
