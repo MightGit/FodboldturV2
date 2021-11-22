@@ -5,6 +5,8 @@ from tkinter import messagebox
 class payWindowClass:
 
     def __init__(self, master):
+
+
         self.master = master #reference til main window objektet
         self.payWindow = Toplevel(self.master.root)
         self.payWindow.title("Pay Window")

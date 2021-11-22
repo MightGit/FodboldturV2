@@ -1,6 +1,6 @@
 import pickle
 
-filename = 'betalinger.pk'
+filename = 'WorkingGUI/betalinger.pk'
 
 fodboldtur ={}
 

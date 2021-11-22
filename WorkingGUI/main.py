@@ -1,4 +1,5 @@
 # importing tkinter module
+import pickle
 from tkinter import *
 from tkinter.ttk import * #progressbar
 
@@ -8,6 +9,12 @@ from worstWindow import worstWindowClass
 
 class mainWindow:
     def __init__(self):
+        self.fodboldtur={}
+        infile = open('betalinger.pk', 'rb')
+        self.fodboldtur = pickle.load(infile)
+        infile.close()
+
+        print(self.fodboldtur)
         self.total = 1200
         self.target = 4500
         # creating tkinter window
