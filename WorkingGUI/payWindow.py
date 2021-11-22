@@ -21,7 +21,7 @@ class payWindowClass:
 
     def addMoney(self):
         try:
-            amount = abs(int(self.money.get())) #HUSK AT VALIDERE INPUT!, kun positive heltal!
+            amount = (int(self.money.get())) #HUSK AT VALIDERE INPUT!, kun positive heltal!
         except:
             messagebox.showerror(parent=self.payWindow , title="Beløb fejl!", message="Prøv igen.\nKun hele tal!")
             return

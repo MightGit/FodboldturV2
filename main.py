@@ -56,9 +56,6 @@ def menu(): #Her er vores menu som viser de forskellige valgmuligheder gutterne 
                 afslut()
 
 
-
-
-
         if (valg == '3'):
             print(" Der skal betales 4500kr i alt til turen") #Dette valg er lavet så man kan se det fulde beløb man skal betale hvis man nu har glemt det
             menu()
