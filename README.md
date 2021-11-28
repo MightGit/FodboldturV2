@@ -3,6 +3,12 @@ Her er vores [Trello](https://trello.com/b/4R1T6xsX/fodboldturgui)
 
 Dette er vores GitHub hvor vi så kan vise omkring hvad vi har lavet gennem dette forløb.
 
+
+I denne program som vi har lavet, skulle den kunne vise om hvilke personer har betalt deres pris og hvem der mangler at betale.
+Det er en meget efficient måde at se hvem der mangler betalinger, for det hele skal nemlig gå til en fodboldtur. Den virker ret simpelt hvor man skriver ind betalinger til hvert person, der efter gemmer den beløbet.
+Den kan også vise hvem der ikke har betalt nok, som er vores bund 3.
+
+
 Første [Flowchart](flowchartbenson.PNG). I vores flowchart viser vi hvordan vi har delt det hele op fra punkt til punkt. 
 Vi har skrevet op hvilken punkter går til hvad og hvornår den skal gå tilbage til menuen siden det er en forkert funktion.
 ![Flowchart](flowchartbenson.PNG) 
@@ -18,9 +24,8 @@ Vi har lavet en Klassediagram for [FodboldGUI](https://github.com/Robotto/fodbol
 [Klasse Diagram](Klassediagram.png). 
 ![KlasseDiagram](KlassediagramUnzoomed.png)
 
-I denne program som vi har lavet, skulle den kunne vise om hvilke personer har betalt deres pris og hvem der mangler at betale.
-Det er en meget efficient måde at se hvem der mangler betalinger, for det hele skal nemlig gå til en fodboldtur. Den virker ret simpelt hvor man skriver ind betalinger til hvert person, der efter gemmer den beløbet.
-Den kan også vise hvem der ikke har betalt nok, som er vores bund 3.
+Dette [GUI](tegning.jpg) er hvordan vores program skulle se ud, hvor vi lavede en skitse omkring udscenen og hvordan den skulle virke.
+![GUI](tegning.jpg)
 
 
 
